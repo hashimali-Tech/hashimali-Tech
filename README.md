@@ -1,35 +1,59 @@
+## Data lab notebook
+
+<div align="center">
+
 # Hashim Ali
 
-**Full-Stack Software Engineer | MERN Stack | AI Integration**
+> Frontend or full-stack engineer
 
-I build web applications with React, Node.js, Express, and MongoDB, connecting user interfaces with backend APIs, databases, and AI services. My work includes educational tools, doctor–patient workflows, and e-commerce applications.
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=hashimali-tech&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328329872%3Fu%3D752250618ba932c9a6f3c68e81e14761ee3be1e5%26v%3D4" alt="hashimali-tech hero visual" />
+</p>
 
-Based in Gujranwala, Pakistan. Pursuing a BS in Information Technology at the University of the Punjab, with expected graduation in 2027.
+</div>
 
-## Technical skills
+## Evidence
 
-| Area | Technologies and experience |
-| --- | --- |
-| Frontend | JavaScript, React.js, Tailwind CSS |
-| Backend and databases | Node.js, Express.js, MongoDB, backend API development |
-| AI integration | OpenAI API, multi-agent AI, integration of a locally trained model |
-| Application features | Authentication, authorization, payment gateway integration, appointment scheduling |
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=hashimali-tech&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328329872%3Fu%3D752250618ba932c9a6f3c68e81e14761ee3be1e5%26v%3D4" alt="hashimali-tech stats visual" />
+</p>
 
-## Selected project experience
+<p><code>32 contributions</code> · <code>2 day streak</code></p>
 
-Completed at Dev Valley Software House and Incubation Centre.
+## Methods and tools
 
-**Multi-agent educational platform**  
-Developed a full-stack study application with React.js and Tailwind CSS. Integrated a locally trained AI model and built multi-agent learning workflows.
+- **Jupyter Notebook** · 95%
+- **HTML** · 4%
 
-**AI-assisted symptom exploration and doctor–patient platform**  
-Built frontend, backend API, and database features using the MERN stack. Integrated the OpenAI API to help users explore reported symptoms, alongside appointment scheduling and live doctor–patient meetings.
+## Research notes
 
-**MERN e-commerce applications**  
-Developed online storefronts with payment gateway integrations, user authentication, and authorization.
+<details open>
+<summary><b>profile.manifest</b></summary>
 
-## Connect
+```yaml
+name: Hashim Ali
+focus: public experiments
+languages: [Jupyter Notebook, HTML, Python, JavaScript, CSS]
+repositories: 8
+```
 
-I’m interested in full-stack development opportunities and collaboration on web applications with practical AI features.
+</details>
 
-[LinkedIn](https://www.linkedin.com/in/hashimali-tech/)
+## Experiments
+
+- **[hashimali-Tech](https://github.com/hashimali-Tech/hashimali-Tech)** — GitHub profile README for Hashim Ali, a full-stack software engineer focused on MERN and AI integration. · ⭐ 1
+- **[python-ai-practice-projects](https://github.com/hashimali-Tech/python-ai-practice-projects)** — Python, AI &amp; Data Practice — deep learning, Power BI, and personal code collections · ⭐ 0
+- **[Google-Clobs-Work](https://github.com/hashimali-Tech/Google-Clobs-Work)** — During Python Course we had a lot of work on Python models for tuning and Data cleaning . · ⭐ 0
+- **[mern-todo-list](https://github.com/hashimali-Tech/mern-todo-list)** — A Full-Stack To-Do List Application built with React.js, Node.js, Express.js, and MongoDB. Features task creation, editing, deletion, and task management. · ⭐ 0
+- **[elegant-analog-wall-clock](https://github.com/hashimali-Tech/elegant-analog-wall-clock)** — Animated Analog Wall Clock using HTML, CSS and JavaScript · ⭐ 0
+- **[student-teacher-management-system](https://github.com/hashimali-Tech/student-teacher-management-system)** — A Full-Stack Student and Teacher Management System built with HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB. Supports student and teacher data management, CRUD operations, and data storage. · ⭐ 0
+
+## Compare notes
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=hashimali-tech&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328329872%3Fu%3D752250618ba932c9a6f3c68e81e14761ee3be1e5%26v%3D4" alt="hashimali-tech social visual" />
+</p>
+
+<a href="https://github.com/hashimali-tech">GitHub</a>
+
+<p align="center"><sub>Hashim Ali · Data profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>

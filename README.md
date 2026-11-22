@@ -2,20 +2,20 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:2c5364,100:7f5af0&text=HASHIM%20ALI&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20AI%20Explorer&descAlignY=60&descSize=17" width="100%" alt="Hashim Ali GitHub Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a0e17,50:1d3557,100:e63946&text=HASHIM%20ALI&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20AI%20Explorer&descAlignY=60&descSize=17" width="100%" alt="Hashim Ali GitHub Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=7F5AF0&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;MERN+Stack+Enthusiast;Exploring+Artificial+Intelligence;Building+Real-World+Projects;Turning+Ideas+Into+Digital+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=E63946&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;MERN+Stack+Enthusiast;Exploring+Artificial+Intelligence;Building+Real-World+Projects;Turning+Ideas+Into+Digital+Products" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://github.com/hashimali-Tech">
-<img src="https://komarev.com/ghpvc/?username=hashimali-Tech&style=for-the-badge&color=7f5af0&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=hashimali-Tech&style=for-the-badge&color=e63946&label=PROFILE+VIEWS" alt="Profile Views"/>
 </a>
 <a href="https://github.com/hashimali-Tech?tab=followers">
-<img src="https://img.shields.io/github/followers/hashimali-Tech?style=for-the-badge&color=2c5364&logo=github&label=FOLLOWERS" alt="GitHub Followers"/>
+<img src="https://img.shields.io/github/followers/hashimali-Tech?style=for-the-badge&color=1d3557&logo=github&label=FOLLOWERS&labelColor=0a0e17" alt="GitHub Followers"/>
 </a>
 <a href="https://github.com/hashimali-Tech?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-View%20All-2c5364?style=for-the-badge&logo=github" alt="Repositories"/>
+<img src="https://img.shields.io/badge/Repositories-View%20All-1d3557?style=for-the-badge&logo=github&labelColor=0a0e17" alt="Repositories"/>
 </a>
 
 </div>
@@ -139,17 +139,17 @@ A modern, animated analog clock with smooth movements and a minimal, elegant int
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=hashimali-Tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7f5af0&icon_color=7f5af0&count_private=true" alt="GitHub Statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=hashimali-Tech&show_icons=true&theme=dark&hide_border=true&bg_color=0a0e17&title_color=e63946&icon_color=e63946&text_color=ffffff&count_private=true" alt="GitHub Statistics"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashimali-Tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7f5af0&langs_count=8" alt="Top Languages"/>
-
-<br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=hashimali-Tech&theme=tokyonight&hide_border=true&background=0d1117&ring=7f5af0&fire=7f5af0&currStreakLabel=7f5af0" alt="GitHub Contribution Streak"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashimali-Tech&layout=compact&theme=dark&hide_border=true&bg_color=0a0e17&title_color=e63946&text_color=ffffff&langs_count=8" alt="Top Languages"/>
 
 <br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=hashimali-Tech&theme=tokyonight&bg_color=0d1117&color=7f5af0&line=7f5af0&point=ffffff&hide_border=true" alt="Contribution Activity Graph"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=hashimali-Tech&theme=dark&hide_border=true&background=0a0e17&ring=e63946&fire=e63946&currStreakLabel=e63946&sideLabels=ffffff&dates=ffffff" alt="GitHub Contribution Streak"/>
+
+<br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=hashimali-Tech&theme=react-dark&bg_color=0a0e17&color=e63946&line=e63946&point=ffffff&hide_border=true" alt="Contribution Activity Graph"/>
 
 </div>
 
@@ -159,7 +159,7 @@ A modern, animated analog clock with smooth movements and a minimal, elegant int
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hashimali-Tech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=hashimali-Tech&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
 
 </div>
 
@@ -170,19 +170,19 @@ A modern, animated analog clock with smooth movements and a minimal, elegant int
 <div align="center">
 
 <a href="https://github.com/hashimali-Tech">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-0a0e17?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/hashimali-tech/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-1d3557?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:hashimalideveloper@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Gmail-e63946?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
 **💬 Open to collaboration, internships, and exciting development opportunities.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7f5af0,50:2c5364,100:0f2027&section=footer" width="100%" alt="Footer Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:e63946,50:1d3557,100:0a0e17&section=footer" width="100%" alt="Footer Banner"/>
 
 </div>
